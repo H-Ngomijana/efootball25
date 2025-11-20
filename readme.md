@@ -1,4 +1,4 @@
-# ⚽ eFootball25 Tournament System
+# ⚽ eFootball25 Tournament System (gihanga)
 
 This is my first full-stack web application for managing football teams and scores participating in a tournament for the football video game **eFootball**. It is built with **React (Vite)** on the frontend and **Express + MySQL** on the backend.
 
