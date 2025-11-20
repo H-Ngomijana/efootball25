@@ -42,59 +42,9 @@ This is my first full-stack web application for managing football teams and scor
 
 ---
 
-## 🛠️ Installation & Usage
-
-To run this project locally:
-
-### I. Clone the Repository
-
-```bash
-git clone https://github.com/Ourouimed/efootball25.git
-```
-### II - frontend Setup
-```bash
-cd frontend
-npm install
-```
-Create a `.env` file in the `frontend` directory and fil it with your backend_api_url:
-```env
-VITE_API_URL=your_api_url #default http://localhost:3001
-```
-Then start the server:
-```bash
-npm run dev 
-```
-- Open your browser at: http://localhost:5173
-
-### III - Backend Setup
-
-```bash
-cd backend
-npm install
-```
-1 - Create your database and use `efootball.sql` script to create the tables:
-
-2 - Create a `.env` file in the `backend` directory and fil it with your Mysql database credentials:
-```env
-PORT=3001
-DB_HOST=your_mysql_host
-DB_USER=your_mysql_user
-DB_PASSWORD=your_mysql_password
-DB_NAME=your_database_name
-ALLOW_CORS_URL = your_frontend_url #default http://localhost:5173
-```
 
 
-
-Then start the server:
-```bash
-npm start
-```
-- Backend runs at: http://localhost:3001
-
-
-
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 efootball25/
@@ -166,6 +116,6 @@ Here are the screenshots showcasing the admin dashboard interface:
 ![Admin Dashboard 4](frontend/public/assets/images/screen7.png)
 
 ---
+open 2'nd handhout open source 
 
-### 🚀 Demo
-You can check out the live demo of the project at: [Demo URL](https://efootball25-league.vercel.app/)
+
