@@ -98,7 +98,7 @@ efootball25/
 ├── .gitignore                     # Specifies files/folders to ignore in version control for the entire project
 └── README.md                      # Project documentation, setup instructions, and features overview
 ```
-### 📷 Demo and Screenshots
+### 📷  Screenshots
 
 #### Home Pages Overview
 Below are the screenshots showing the general view of the homepage:
