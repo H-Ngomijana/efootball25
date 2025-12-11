@@ -103,7 +103,7 @@ efootball25/
 #### Home Pages Overview
 Below are the screenshots showing the general view of the homepage:
 
-![Home Page 1](frontend/public/assets/images/screen1.png)
+
 ![Home Page 2](frontend/public/assets/images/screen2.png)
 ![Home Page 3](frontend/public/assets/images/screen3.png)
 
